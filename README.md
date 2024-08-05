@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Computer Science @ Northeastern University, expect to graduate at May, 2025
+- 🌱 Computer Science @ Northeastern University, expect to graduate at December, 2025
 - 👩‍💻 Software Engineer Intern @ Wiseras
 - ✨ Committed to collaborative projects at the intersection of technology and social impact ✨
 - 💖 Ask me about anything 
