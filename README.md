@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Computer Science @ Northeastern University, expect to graduate at December, 2025
-- 👩‍💻 Software Engineer Intern @ Wiseras
+- 👩‍💻 Software Engineer Intern @ Rippling
 - ✨ Committed to collaborative projects at the intersection of technology and social impact ✨
 - 💖 Ask me about anything 
 - 📫 How to reach me: https://www.linkedin.com/in/chunyun-zhang/
